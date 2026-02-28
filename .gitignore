@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node/Next
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Env files
+.env
+.env.*
+!.env.example
+backend/.env
+frontend/.env.local
